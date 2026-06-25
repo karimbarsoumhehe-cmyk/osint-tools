@@ -8,3 +8,12 @@ il y a aussi 2 pages différent
 <img width="1115" height="628" alt="Capture d&#39;écran 2026-06-25 184501" src="https://github.com/user-attachments/assets/d425dd10-86cd-4409-8231-87122cd210dc" />
 
 " />
+Vérifie python avec
+python --version
+pip --version
+Installation automatique
+lancer le setup.bat
+ou sinon dans terrminal cd le chemin d'accès 
+puis pip install -r requirements.txt
+et pour le lancer python main.py
+N’oublie pas d’extraire le fichier zip avant de procéder à la méthode
